@@ -1,6 +1,5 @@
-# Next.js 14 Online Store with Tailwind CSS, Strapi, Stripe, and Clerk
 
-This is a full-stack online store built using Next.js 14, Tailwind CSS for styling, Strapi for headless CMS, Stripe for payment processing, and Clerk for authentication and user management.
+This is a full-stack online store built using Next.js , Tailwind CSS for styling, Strapi for headless CMS, Stripe for payment processing, and Clerk for authentication and user management.
 
 ## Screenshots
 
@@ -34,7 +33,7 @@ This is a full-stack online store built using Next.js 14, Tailwind CSS for styli
 
 ## Get Started
 
-1. Clone the repository: `git clone https://github.com/ayoubhayda/react-admin-dashboard.git`
+1. Clone the repository: `git clone https://github.com/blixor/next.js-stripe-store.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Set up environment variables:
    
@@ -58,8 +57,5 @@ We welcome contributions and feedback from the community to enhance and improve 
 
 ## Free to Use
 
-Our Next.js 14 Online Store is open-source and completely free to use. Download it, customize it, and streamline your e-commerce operations with ease.
+Our Next.js Online Store is open-source and completely free to use. Download it, customize it, and streamline your e-commerce operations with ease.
 
-**Keywords:** Next.js, Tailwind CSS, Strapi, Stripe, Clerk, Online Store, E-commerce, Full Stack, Open Source.
-
-**Enjoy building awesome projects with our Next.js 14 Online Store!**
